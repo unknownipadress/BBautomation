@@ -1,5 +1,6 @@
 install the following packages in your pycharm
 beautifulsoup4
+\n
 bs4
 requests
 selenium
